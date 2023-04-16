@@ -1,4 +1,4 @@
-# Top-Rated-Movies
+# Top Rated Movies
 
 The Python script provided is an example of web scraping using BeautifulSoup and requests libraries to extract data from IMDb's top-rated movies page. The script sends a GET request to the IMDb website, downloads the HTML content, and parses it using BeautifulSoup. It then searches for the table that contains the movie data and extracts the movie titles, release years, and ratings from the table.
 
